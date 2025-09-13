@@ -20,16 +20,21 @@ Solar Customers: Homeowners and companies aiming for green savings.
 
 Solar Providers/Sales Agents: Need automated lead scoring, installation status, and satisfaction tracking.
 
-Technicians: Require instant alerts for underperforming panels.
+
+
+Technicians:   Require instant alerts for underperforming panels.
 
 Administrators/Managers: Demand portfolio-wide performance analytics and compliance metrics.
 
 Business Process Mapping
+
+
 Lead Capture: From web/social, qualified by customer’s interest in green solutions.
 
 Solar Panel Purchase/Installation: Request → Approval → Scheduling → Installation.
 
-Energy Logging: IoT/Manual log → validation → savings computation.
+
+Energy Logging:IoT/Manual log → validation → savings computation.
 
 Support & Maintenance: Performance drop triggers support workflow.
 
